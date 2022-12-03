@@ -1,1 +1,1 @@
-# CS5425 Assignment: MapReduce Top-K Common Words
+# CS5425-MapReduce-Common-Words
